@@ -90,6 +90,6 @@ class ScreenReaderStatusExample extends React.Component {
             class="methodType">(eventName, handler)</span> <a class="hash-link"
                                                               href="#removeeventlistener">#</a>
     </h4>
-        <div><p>Remove an event handler.</p></div>
+        <div><p>删除一个事件钩子.</p></div>
     </div>
 </div>
